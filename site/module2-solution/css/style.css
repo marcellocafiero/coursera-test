@@ -18,7 +18,18 @@ body {
 font-family: Helvetica, sans serif;
 }
 
-
-#box {
+p {
 background-color: grey;
+width: 33,33%;
+padding: 10px;
+border: 1px solid black;
+float: left;
 }
+
+.section1
+
+.section2
+
+.section3
+
+
