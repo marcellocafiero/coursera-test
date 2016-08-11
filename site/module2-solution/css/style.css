@@ -107,6 +107,7 @@ h1
   				/*-o-text-overflow: ellipsis;*/
   				text-overflow: ellipsis;
                                 background: #DCDCDC;
+                                border: 1px solid black;
 			}
 	}
 
@@ -124,6 +125,7 @@ h1
 				margin-bottom: 10px;
 				text-overflow: ellipsis;
                                 background: #DCDCDC;
+                                border: 1px solid black;
 			}
 	.column-medium-1
 			{
@@ -138,6 +140,7 @@ h1
 				margin-bottom: 10px;
 				text-overflow: ellipsis;
                                 background: #DCDCDC;
+                                border: 1px solid black;
 			}	
 }
 @media (max-width: 767px){
@@ -160,6 +163,7 @@ h1
   				/*-o-text-overflow: ellipsis;*/
   				text-overflow: ellipsis;
                                 background: #DCDCDC;
+                                border: 1px solid black;
 			}
 	}
 
