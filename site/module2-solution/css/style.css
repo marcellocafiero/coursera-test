@@ -50,19 +50,22 @@ h1
 
 .title1
 	{
-		background-color: #FF8C00;
+		text-align: center;
+                background-color: #FF8C00;
 		border: 1px solid gray;
 	}
 
 .title2
 	{
-		background-color:  #bfff00;
+                text-align: center;
+		background-color:  #FFD700;
 		border: 1px solid gray;
 	}
 
 .title3
 	{
-		background-color:  #ffbf00;
+                text-align: center;
+		background-color:  #87CEFA;
 		border: 1px solid gray;
 	}
 
@@ -166,4 +169,3 @@ div.chan
 		width: 250px;
 		/*border: 3px solid #73AD21;*/
 	}
-
