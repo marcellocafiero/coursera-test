@@ -42,7 +42,7 @@ h1
 		text-align: center;
                 text-size: 75%;
                 background-color: #FF8C00;
-		border: 1px solid gray;
+		border: 1px solid black;
 	}
 
 .title2
@@ -50,7 +50,7 @@ h1
                 text-align: center;
                 text-size: 75%;
 		background-color:  #FFD700;
-		border: 1px solid gray;
+		border: 1px solid black;
 	}
 
 .title3
@@ -58,7 +58,7 @@ h1
                 text-align: center;
                 text-size: 75%;
 		background-color:  #87CEFA;
-		border: 1px solid gray;
+		border: 1px solid black;
 	}
 
 
