@@ -13,6 +13,7 @@ font-family: Arial, Helvetica, sans serif;
 h1.header
 	{
 		text-align: center;
+                text-size: 75%;
 		margin-right: 1px;
 		margin-left: 1px;
 		margin-top: 30px;
