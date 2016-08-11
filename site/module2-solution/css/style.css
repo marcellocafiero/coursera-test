@@ -33,7 +33,7 @@ p
 		margin-bottom: 15px;
 		padding-right: 30px;
 		padding-top: 50px;
-		padding-left: 1px;
+		padding-left: 10px;
 
 
                /* padding-top: 10px;
@@ -45,7 +45,14 @@ p
 h1
 	{
 		text-align: right;
-                text-size: 75%;
+		margin-top: 0px;
+		margin-bottom: 1px;
+		margin-right: 1px;
+		margin-left: 1px;
+		width: 100%;
+		position: relative;
+		top: 0px;
+		right: 0px;
 		
 	}
 
