@@ -106,6 +106,7 @@ h1
   				/*text-align: center;*/
   				/*-o-text-overflow: ellipsis;*/
   				text-overflow: ellipsis;
+                                background: #DCDCDC;
 			}
 	}
 
@@ -122,6 +123,7 @@ h1
 				margin-top: 10px;
 				margin-bottom: 10px;
 				text-overflow: ellipsis;
+                                background: #DCDCDC;
 			}
 	.column-medium-1
 			{
@@ -135,6 +137,7 @@ h1
 				margin-top: 10px;
 				margin-bottom: 10px;
 				text-overflow: ellipsis;
+                                background: #DCDCDC;
 			}	
 }
 @media (max-width: 767px){
@@ -156,6 +159,7 @@ h1
   				/*text-align: center;*/
   				/*-o-text-overflow: ellipsis;*/
   				text-overflow: ellipsis;
+                                background: #DCDCDC;
 			}
 	}
 
