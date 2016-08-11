@@ -40,6 +40,7 @@ h1
 .title1
 	{
 		text-align: center;
+                text-size: 75%;
                 background-color: #FF8C00;
 		border: 1px solid gray;
 	}
@@ -145,4 +146,3 @@ div.chan
 		float:right;
 		width: 150px;
 	}
-
