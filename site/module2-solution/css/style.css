@@ -55,7 +55,11 @@ h1
 		
 	}
 
-
+div.section
+	{
+		float:right;
+		width: 150px;
+	}
 
 .section1
 	{
@@ -161,11 +165,4 @@ h1
                                 background: #DCDCDC;
                                 border: 1px solid black;
 			}
-	}
-
-
-div.section
-	{
-		float:right;
-		width: 150px;
 	}
