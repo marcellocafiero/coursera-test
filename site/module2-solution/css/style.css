@@ -58,21 +58,21 @@ h1
 
 
 
-.title1
+.section1
 	{
 		text-align: center;
                 background-color: #FF8C00;
 		border: 1px solid black;
 	}
 
-.title2
+.section2
 	{
                 text-align: center;
 		background-color:  #FFD700;
 		border: 1px solid black;
 	}
 
-.title3
+.section3
 	{
                 text-align: center;
 		background-color:  #87CEFA;
@@ -165,7 +165,7 @@ h1
 	}
 
 
-div.title
+div.section
 	{
 		float:right;
 		width: 150px;
