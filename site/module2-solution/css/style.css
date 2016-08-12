@@ -87,7 +87,6 @@ div.section
 		.column-large-3
 			{
 				float: left;
-				/*border: 1px solid green;*/
 				padding-left: 1px;
 				padding-right: 1px;
 				width: 31%;
@@ -97,10 +96,6 @@ div.section
 				margin-bottom: 10px;
 				overflow: hidden;
   				border: none;
-  				/*font: normal 16px/1 "Times New Roman", Times, serif;
-  				color: rgba(255,255,255,1);*/
-  				/*text-align: center;*/
-  				/*-o-text-overflow: ellipsis;*/
   				text-overflow: ellipsis;
                                 background: #DCDCDC;
                                 border: 1px solid black;
@@ -111,7 +106,6 @@ div.section
  	.column-medium-2
 			{
 				float: left;
-				/*border: 1px solid green;*/
 				padding-left: 1px;
 				padding-right: 1px;
 				width: 46%;
@@ -143,7 +137,6 @@ div.section
 		.column-small-1
 			{
 				float: left;
-				/*border: 1px solid green;*/
 				padding-left: 1px;
 				padding-right: 1px;
 				width: 90%;
@@ -153,10 +146,6 @@ div.section
 				margin-bottom: 10px;
 				overflow: hidden;
   				border: none;
-  				/*font: normal 16px/1 "Times New Roman", Times, serif;
-  				color: rgba(255,255,255,1);*/
-  				/*text-align: center;*/
-  				/*-o-text-overflow: ellipsis;*/
   				text-overflow: ellipsis;
                                 background: #DCDCDC;
                                 border: 1px solid black;
