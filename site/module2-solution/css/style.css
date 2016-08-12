@@ -49,11 +49,12 @@ h1
 		margin-right: 1px;
 		margin-left: 1px;
 		width: 100%;
-		position: absolute;
-		top: 0px;
+		position: relative;
+                top: 0px;
 		right: 0px;
 		
 	}
+
 
 div.section
 	{
